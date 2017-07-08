@@ -1,0 +1,90 @@
+@import url("ttps://fonts.googleapis.com/css?family=Canda");
+
+.intro {
+  text-align: center;
+}
+
+.background {
+  background-color: #d0d0d0;  
+}
+img {
+  width: 100%;
+  border-radius: 1%;
+}
+
+.display {
+  width: 50px;
+  background-color: transparent;
+  border-radius: 100%;
+  border-color: #ffffff;
+}
+
+.show {
+  display: inline-block;
+}
+
+.background2 {
+  background-color: #41454e;
+  color: white;
+}
+
+.style {
+  font-size: 20px;
+  margin-right: 13px;
+  color: white;
+}
+
+.opacity {
+  opacity: 0.78;
+}
+
+p {
+  opacity: 0.56;
+}
+
+h1 {
+  color: #f83659;
+  font-weight: bold;
+  font-size: 50px;
+ font-family: 'Candal', sans-serif;
+  opacity: 40%;
+}
+
+h2 {
+  color: #413b47;
+  font-size: 40px;
+}
+
+button {
+  background-color: #f83659;
+  height: 45px;
+}
+
+em {
+  color:  #f83659;
+  font-weight: bold;
+}
+
+#button {
+  color: #ffffff;
+}
+
+#height {
+  height: 118px;
+}
+
+#height2 {
+  height: 300px;
+}
+
+#bottom {
+   margin-bottom: 30px; 
+}
+
+#bottom2 {
+  margin-bottom: 30px; 
+}
+
+#signin {
+  font-weight: bold;
+}
